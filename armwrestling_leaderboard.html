@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Armwrestling Leaderboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    h2 {
+      margin-top: 40px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 40px;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Armwrestling Leaderboard</h1>
+
+  <h2>Left Arm</h2>
+  <table id="left-leaderboard">
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Wrestler</th>
+        <th>Rating</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <h2>Right Arm</h2>
+  <table id="right-leaderboard">
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Wrestler</th>
+        <th>Rating</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    fetch("leaderboard.json")
+      .then(response => response.json())
+      .then(data => {
+        // Function to populate the table dynamically
+        const populateTable = (tableId, armData) => {
+          const tbody = document.querySelector(`#${tableId} tbody`);
+          
+          // Sort armData in descending order by rating
+          armData.sort((a, b) => b[1] - a[1]);
+          
+          armData.forEach(([name, rating], index) => {
+            const row = document.createElement("tr");
+            row.innerHTML = `
+              <td>${index + 1}</td>
+              <td>${name}</td>
+              <td>${rating.toFixed(2)}</td>
+            `;
+            tbody.appendChild(row);
+          });
+        };
+
+        // Populate left and right arm leaderboards
+        populateTable("left-leaderboard", data.left || []);
+        populateTable("right-leaderboard", data.right || []);
+      })
+      .catch(error => {
+        console.error("Error loading leaderboard:", error);
+      });
+  </script>
+</body>
+</html>
