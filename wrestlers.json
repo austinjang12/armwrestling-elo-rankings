@@ -1,0 +1,1329 @@
+[
+    {
+      "winner": "Levan Saginashvili",
+      "loser": "Devon Larratt",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2022-06-25",
+      "event": "King of the Table 4",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+      "winner": "Devon Larratt",
+      "loser": "Evgeny Prudnik",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2023-07-01",
+      "event": "East vs West 7",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+
+    {
+        "winner": "Devon Larratt",
+      "loser": "Corey West",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2025-03-29",
+      "event": "East vs West 17",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Genadi Kvikvinia",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2025-02-15",
+      "event": "East vs West 17",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Vitaly Laletin",
+      "loser": "Artyom Morozov",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2025-02-15",
+      "event": "East vs West 17",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Vitaly Laletin",
+      "loser": "Georgi Dzeranov",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-11-02",
+      "event": "East vs West 15",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Vitaly Laletin",
+      "loser": "Artyom Morozov",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-07-06",
+      "event": "East vs West 13",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Vitaly Laletin",
+      "loser": "Kamil Jablonski",
+      "winner_rounds": 2,
+      "loser_rounds": 4,
+      "date": "2024-06-01",
+      "event": "King of the Table 11",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Vitaly Laletin",
+      "loser": "Dave Chaffee",
+      "winner_rounds": 4,
+      "loser_rounds": 1,
+      "date": "2024-02-24",
+      "event": "King of the Table 10",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Ermes Gasparini",
+      "loser": "Vitaly Laletin",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2023-12-09",
+      "event": "King of the Table 9",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Vitaly Laletin",
+      "loser": "Tobias Sporrong",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-05-06",
+      "event": "East vs West 7",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Dave Chaffee",
+      "loser": "Vitaly Laletin",
+      "winner_rounds": 4,
+      "loser_rounds": 3,
+      "date": "2022-10-01",
+      "event": "King of the Table 5",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Ermes Gasparini",
+      "loser": "Michael Todd",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2025-02-15",
+      "event": "East vs West 17",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Alizhan Muratov",
+      "loser": "Ermes Gasparini",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-04-20",
+      "event": "East vs West 12",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Ermes Gasparini",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-08-26",
+      "event": "East vs West 9",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Ermes Gasparini",
+      "loser": "Jerry Cadorette",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-07-29",
+      "event": "East vs West 8",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Levan Saginashvili",
+      "loser": "Ermes Gasparini",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2023-02-25",
+      "event": "King of the Table 6",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Artyom Morozov",
+      "loser": "Ermes Gasparini",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-11-19",
+      "event": "East vs West 5",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Ermes Gasparini",
+      "loser": "Dave Chaffee",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-11-19",
+      "event": "East vs West 5",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Ermes Gasparini",
+      "loser": "Wagner Bortolato",
+      "winner_rounds": 4,
+      "loser_rounds": 1,
+      "date": "2022-04-02",
+      "event": "King of the Table 3",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Ermes Gasparini",
+      "loser": "Genadi Kvikvinia",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2021-12-11",
+      "event": "Knig of the Table 2",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Artyom Morozov",
+      "loser": "Kamil Jablonski",
+      "winner_rounds": 5,
+      "loser_rounds": 1,
+      "date": "2024-09-28",
+      "event": "King of the Table 12",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Artyom Morozov",
+      "loser": "Ivan Matyushenko",
+      "winner_rounds": 4,
+      "loser_rounds": 1,
+      "date": "2024-06-01",
+      "event": "King of the Table 11",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Artyom Morozov",
+      "loser": "Alex Kurdecha",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2024-01-20",
+      "event": "East vs West 11",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Georgi Tsvetkov",
+      "loser": "Artyom Morozov",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-07-29",
+      "event": "East vs West 8",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Artyom Morozov",
+      "loser": "Corey West",
+      "winner_rounds": 6,
+      "loser_rounds": 0,
+      "date": "2023-06-24",
+      "event": "King of the Table 7",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Artyom Morozov",
+      "loser": "Revaz Lutidze",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2022-11-19",
+      "event": "East vs West 11",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Artyom Morozov",
+      "loser": "David Dadikyan",
+      "winner_rounds": 3,
+      "loser_rounds": 3,
+      "date": "2022-10-01",
+      "event": "King of the Table 5",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Levan Saginashvili",
+      "loser": "Jerry Cadorette",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-12-14",
+      "event": "King of the Table 13",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Levan Saginashvili",
+      "loser": "Devon Larratt",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-04-20",
+      "event": "East vs West 12",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Alizhan Muratov",
+      "loser": "Ivan Matyushenko",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-11-02",
+      "event": "West vs West 15",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Alizhan Muratov",
+      "loser": "Evgeny Prudnik",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-01-20",
+      "event": "West vs West 11",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Alizhan Muratov",
+      "loser": "Kody Merritt",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-05-06",
+      "event": "East vs West 11",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Alizhan Muratov",
+      "loser": "Oleg Petrenko",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-01-21",
+      "event": "East vs West 6",
+      "weight_class": "super heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Ivan Matyushenko",
+      "loser": "Rino Masic",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2024-01-20",
+      "event": "East vs West 11",
+      "weight_class": "heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Ivan Matyushenko",
+      "loser": "Kamil Jablonski",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-11-11",
+      "event": "East vs West 10",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Ivan Matyushenko",
+      "loser": "David Arabuli",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-08-26",
+      "event": "East vs West 9",
+      "weight_class": "heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Kamil Jablonski",
+      "loser": "Corey West",
+      "winner_rounds": 4,
+      "loser_rounds": 1,
+      "date": "2024-09-28",
+      "event": "East vs West 12",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Michael Todd",
+      "loser": "Kamil Jablonski",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-08-10",
+      "event": "East vs West 14",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Kamil Jablonski",
+      "loser": "Mirtaleh Aslanov",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2024-05-11",
+      "event": "Knuckles Up 3",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Kamil Jablonski",
+      "loser": "Tobias Sporrong",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2024-04-20",
+      "event": "East vs West 12",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Kamil Jablonski",
+      "loser": "Devon Larratt",
+      "winner_rounds": 5,
+      "loser_rounds": 1,
+      "date": "2024-01-24",
+      "event": "Arm Wars Las Vegas",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Kamil Jablonski",
+      "loser": "Kody Merritt",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-01-06",
+      "event": "Knuckles Up 2",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Kamil Jablonski",
+      "loser": "Dave Chaffee",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-08-26",
+      "event": "The High Five Arm Wrestling",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Michael Todd",
+      "loser": "Genadi Kvikvinia",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2024-11-02",
+      "event": "East vs West 15",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Michael Todd",
+      "loser": "Lars Rorbakken",
+      "winner_rounds": 6,
+      "loser_rounds": 0,
+      "date": "2024-06-01",
+      "event": "King of the Table 11",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Michael Todd",
+      "loser": "Frank Lampareli",
+      "winner_rounds": 4,
+      "loser_rounds": 1,
+      "date": "2024-04-20",
+      "event": "East vs West 12",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Kydyrgali Ongarbaev",
+      "loser": "Michael Todd",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2023-01-21",
+      "event": "East vs West 6",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Revaz Lutidze",
+      "loser": "Michael Todd",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2022-05-21",
+      "event": "East vs West 3",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Genadi Kvikvinia",
+      "loser": "Michael Todd",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-02-12",
+      "event": "East vs West II",
+      "weight_class": "Super Heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Michael Todd",
+      "winner_rounds": 5,
+      "loser_rounds": 0,
+      "date": "2021-05-28",
+      "event": "King of the Table 1",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Michael Todd",
+      "loser": "Jerry Cadorette",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2019-09-25",
+      "event": "WAL 506",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Jerry Cadorette",
+      "loser": "Alex Kurdecha",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-08-10",
+      "event": "East vs West 14",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Jerry Cadorette",
+      "loser": "Georgi Tsvetkov",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2023-01-21",
+      "event": "East vs West 6",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Jerry Cadorette",
+      "loser": "Genadi Kvikvinia",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2022-08-06",
+      "event": "East vs West 4",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Georgi Tsvetkov",
+      "loser": "Dave Chaffee",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2025-03-29",
+      "event": "East vs West 17",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Georgi Tsvetkov",
+      "loser": "Sergei Kalinichenko",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-09-28",
+      "event": "King of th Table 12",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Alex Kurdecha",
+      "loser": "Georgi Tsvetkov",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-04-20",
+      "event": "East vs West 12",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Georgi Tsvetkov",
+      "winner_rounds": 5,
+      "loser_rounds": 0,
+      "date": "2023-12-09",
+      "event": "King of the Table 9",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Georgi Tsvetkov",
+      "loser": "Zaur Paizulaev",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-11-01",
+      "event": "East vs West 10",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Georgi Tsvetkov",
+      "winner_rounds": 6,
+      "loser_rounds": 0,
+      "date": "2023-09-16",
+      "event": "Arm Wars Dark Card 3",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Oleg Petrenko",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-11-02",
+      "event": "East vs West 15",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Leonidas Arkona",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-09-28",
+      "event": "King of the Table 12",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Chance Shaw",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2024-08-10",
+      "event": "East vs West 14",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Denis Csyplenkov",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-11-11",
+      "event": "East vs West 10",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Sergei Kalinichenko",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2023-08-12",
+      "event": "AWC Fight Night II",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Dave Chaffee",
+      "winner_rounds": 6,
+      "loser_rounds": 0,
+      "date": "2023-06-24",
+      "event": "King of Table 7",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Genadi Kvikvinia",
+      "loser": "Devon Larratt",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2023-05-6",
+      "event": "East vs West 7",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Sandris Sedis",
+      "winner_rounds": 6,
+      "loser_rounds": 0,
+      "date": "2023-02-04",
+      "event": "Arm Wars Dark Card",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Sandris Sedis",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2023-02-04",
+      "event": "Arm Wars Dark Card",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "John Brzenk",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2021-12-11",
+      "event": "King of the Table 2",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Devon Larratt",
+      "loser": "Wagner Bortolato",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2019-09-25",
+      "event": "WAL 506",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Genadi Kvikvinia",
+      "loser": "Ferit Osmanli",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-01-21",
+      "event": "East vs West 6",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Georgi Dzeranov",
+      "loser": "Revaz Lutidze",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-06-01",
+      "event": "King of the Table 11",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Georgi Dzeranov",
+      "loser": "Ferit Osmanli",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-08-26",
+      "event": "East vs East 9",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Georgi Dzeranov",
+      "loser": "Arif Ertem",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2023-05-06",
+      "event": "East vs West 7",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Georgi Dzeranov",
+      "loser": "Sergei Kalinichenko",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2022-11-19",
+      "event": "East vs West 5",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Georgi Dzeranov",
+      "loser": "Wagner Bortolato",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2022-11-10",
+      "event": "East vs West 5",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "David Dadikyan",
+      "loser": "Alex Kurdecha",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2025-02-15",
+      "event": "East vs West 17",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Alex Kurdecha",
+      "loser": "Corey West",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-06-25",
+      "event": "King of the Table 4",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "David Dadikyan",
+      "loser": "Oleg Zhokh",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-08-06",
+      "event": "East vs West 4",
+      "weight_class": "light heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "David Dadikyan",
+      "loser": "Irakli Zirakashvilli",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-08-26",
+      "event": "East vs West 9",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Evgeny Prudnik",
+      "loser": "David Dadikyan",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2023-08-26",
+      "event": "East vs West 9",
+      "weight_class": "light heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "David Dadikyan",
+      "loser": "Todd Hutchings",
+      "winner_rounds": 4,
+      "loser_rounds": 1,
+      "date": "2024-01-20",
+      "event": "East vs West 11",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Oleg Petrenko",
+      "loser": "David Dadikyan",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-07-06",
+      "event": "East vs West 13",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Todd Hutchings",
+      "loser": "Irakli Zirakashvilli",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2025-02-15",
+      "event": "East vs West 16",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Todd Hutchings",
+      "loser": "Yoshinobu Kanai",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2024-11-02",
+      "event": "East vs West 15",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Todd Hutchings",
+      "loser": "Evgeny Prudnik",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-08-10",
+      "event": "East vs West 14",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Todd Hutchings",
+      "loser": "Krasimir Kostadinov",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-07-06",
+      "event": "East vs West 15",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Todd Hutchings",
+      "loser": "Ibraim Sagov",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2023-08-26",
+      "event": "East vs West 9",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Todd Hutchings",
+      "loser": "John Brzenk",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2023-08-12",
+      "event": "AWC Fight Night II",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Evgeny Prudnik",
+      "loser": "Todd Hutchings",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-08-06",
+      "event": "East vs West 4",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Michael Todd",
+      "loser": "Todd Hutchings",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2022-07-09",
+      "event": "Monster Factory Armwrestling 2",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Todd Hutchings",
+      "loser": "Irakli Zirakashvilli",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-04-02",
+      "event": "East vs West 3",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Rino Masic",
+      "loser": "Ibraim Sagov",
+      "winner_rounds": 4,
+      "loser_rounds": 3,
+      "date": "2024-11-2",
+      "event": "East vs West 15",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Rino Masic",
+      "loser": "Bacho Saginashvilli",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-02-24",
+      "event": "King of Table 10",
+      "weight_class": "Heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Rino Masic",
+      "loser": "Terence Opperman",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-07-29",
+      "event": "East vs West 8",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Ibraim Sagov",
+      "loser": "Chance Shaw",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-07-06",
+      "event": "East vs West 13",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Ibraim Sagov",
+      "loser": "Sandris Sedis",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-04-02",
+      "event": "East vs West 12",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Tobias Sporrong",
+      "loser": "Corey West",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2024-12-14",
+      "event": "King of Table 13",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Tobias Sporrong",
+      "loser": "Wagner Bortolato",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-02-24",
+      "event": "King of Table 10",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Tobias Sporrong",
+      "loser": "Evgeny Prudnik",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-05-21",
+      "event": "King of Table 13",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Marcio Barboza",
+      "loser": "Tobias Sporrong",
+      "winner_rounds": 3,
+      "loser_rounds": 2,
+      "date": "2022-05-21",
+      "event": "East vs West 3",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Artyom Morozov",
+      "loser": "Tobias Sporrong",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2022-02-12",
+      "event": "East vs West 2",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Matt Mask",
+      "loser": "Kydyrgali Ongarbaev",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2025-03-29",
+      "event": "East vs West 17",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Oleg Petrenko",
+      "loser": "Kydyrgali Ongarbaev",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-06-01",
+      "event": "King of the Table 11",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Kydyrgali Ongarbaev",
+      "loser": "Todd Hutchings",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-11-11",
+      "event": "East vs West 10",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Kydyrgali Ongarbaev",
+      "loser": "Irakli Zirakashvilli",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2023-05-06",
+      "event": "East vs West 7",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Kydyrgali Ongarbaev",
+      "loser": "John Brzenk",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2022-08-06",
+      "event": "East vs West 4",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Irakli Zirakashvilli",
+      "loser": "Marcio Barboza",
+      "winner_rounds": 4,
+      "loser_rounds": 1,
+      "date": "2022-06-25",
+      "event": "East vs West 4",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Oleg Petrenko",
+      "loser": "Marcio Barboza",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-01-20",
+      "event": "East vs West 11",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Matt Mask",
+      "loser": "Marcio Barboza",
+      "winner_rounds": 5,
+      "loser_rounds": 1,
+      "date": "2024-12-14",
+      "event": "King of the Table 13",
+      "weight_class": "light heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Vitaly Laletin",
+      "loser": "Revaz Lutidze",
+      "winner_rounds": 2,
+      "loser_rounds": 0,
+      "date": "2023-08-26",
+      "event": "East vs West 9",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Revaz Lutidze",
+      "loser": "Dave Chaffee",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-06-01",
+      "event": "King of the Table 11",
+      "weight_class": "super heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "John Brzenk",
+      "loser": "Leonidas Arkona",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-08-10",
+      "event": "East vs West 14",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Sergei Kalinichenko",
+      "loser": "Frank Lampareli",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2025-02-15",
+      "event": "East vs West 17",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Sergei Kalinichenko",
+      "loser": "Travis Bagent",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-07-06",
+      "event": "East vs West 13",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Sergei Kalinichenko",
+      "loser": "Dave Chaffee",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2024-01-13",
+      "event": "AWC All or Nothing",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Sergei Kalinichenko",
+      "loser": "Arif Ertem",
+      "winner_rounds": 4,
+      "loser_rounds": 1,
+      "date": "2023-12-09",
+      "event": "King of Table 9",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Sergei Kalinichenko",
+      "loser": "Chance Shaw",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2023-09-23",
+      "event": "King of Table 8",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Sergei Kalinichenko",
+      "loser": "Matt Mask",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2023-08-12",
+      "event": "AWC Fight Night II",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Evgeny Prudnik",
+      "loser": "Matt Mask",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2022-05-21",
+      "event": "East vs West 3",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Artyom Morozov",
+      "loser": "Matt Mask",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-05-21",
+      "event": "East vs West 3",
+      "weight_class": "heavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Sandris Sedis",
+      "loser": "Matt Mask",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2022-11-19",
+      "event": "East vs West 5",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Matt Mask",
+      "loser": "Ron Bath",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2023-09-23",
+      "event": "King of the Table 8",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Frank Lampareli",
+      "loser": "Matt Mask",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2023-11-11",
+      "event": "East vs West 10",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Matt Mask",
+      "loser": "Wagner Bortolato",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2024-01-20",
+      "event": "East vs West 11",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Matt Mask",
+      "loser": "Lars Rorbakken",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2023-08-10",
+      "event": "East vs West 14",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Denis Csyplenkov",
+      "loser": "John Brzenk",
+      "winner_rounds": 6,
+      "loser_rounds": 0,
+      "date": "2023-02-25",
+      "event": "King of the Table 6",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Denis Csyplenkov",
+      "loser": "Devon Larratt",
+      "winner_rounds": 6,
+      "loser_rounds": 0,
+      "date": "2018-11-11",
+      "event": "PAL Armfight #50",
+      "weight_class": "superheavyweight",
+      "arm": "left"
+    },
+    {
+        "winner": "Denis Csyplenkov",
+      "loser": "Michael Todd",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2016-07-22",
+      "event": "PAL Armfight #46",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    }
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+
+
+  ]
+  

@@ -1,0 +1,204 @@
+{
+  "Levan Saginashvili": {
+    "right": 2499.6512453838855,
+    "left": 1500
+  },
+  "Devon Larratt": {
+    "right": 2081.4462730079345,
+    "left": 1446.7265663597836
+  },
+  "Genadi Kvikvinia": {
+    "right": 1771.519828622039,
+    "left": 1500
+  },
+  "Vitaly Laletin": {
+    "left": 2201.342047807879,
+    "right": 1565.3292031590097
+  },
+  "Artyom Morozov": {
+    "left": 2046.881796605783,
+    "right": 1089.3419131566159
+  },
+  "Georgi Dzeranov": {
+    "right": 1650.7141570201995,
+    "left": 1627.4290125621878
+  },
+  "Kamil Jablonski": {
+    "left": 1851.3652853512813,
+    "right": 1516.1545668745175
+  },
+  "Dave Chaffee": {
+    "right": 1168.1674102709055,
+    "left": 1466.4188796475164
+  },
+  "Ermes Gasparini": {
+    "right": 1987.7542864639977,
+    "left": 1467.028918981222
+  },
+  "Tobias Sporrong": {
+    "left": 1596.7284927319574,
+    "right": 1372.5568459653628
+  },
+  "Michael Todd": {
+    "right": 1570.4901369486079,
+    "left": 1500
+  },
+  "Alizhan Muratov": {
+    "left": 2108.5630724366215,
+    "right": 1500
+  },
+  "Jerry Cadorette": {
+    "right": 1713.4750845531034,
+    "left": 1500
+  },
+  "Wagner Bortolato": {
+    "left": 1016.2954833904519,
+    "right": 1421.4824893981609
+  },
+  "Ivan Matyushenko": {
+    "left": 1662.9861430697435,
+    "right": 1848.1649432543506
+  },
+  "Alex Kurdecha": {
+    "left": 1158.8423679328198,
+    "right": 1800.7804848942717
+  },
+  "Georgi Tsvetkov": {
+    "right": 1503.221527855146,
+    "left": 1500
+  },
+  "Evgeny Prudnik": {
+    "right": 1696.8812910625165,
+    "left": 1441.7264655664526
+  },
+  "Corey West": {
+    "left": 1026.876478173678,
+    "right": 1306.995265825207
+  },
+  "Revaz Lutidze": {
+    "left": 1401.170926629982,
+    "right": 1401.1367903218568
+  },
+  "David Dadikyan": {
+    "left": 1467.8474684719781,
+    "right": 1767.533758805304
+  },
+  "Kody Merritt": {
+    "left": 1250.6827340531943,
+    "right": 1500
+  },
+  "Oleg Petrenko": {
+    "left": 1398.6197659267307,
+    "right": 1861.3182442000993,
+    "supermatches": 2
+  },
+  "Rino Masic": {
+    "left": 1247.1055163250128,
+    "supermatches": 1,
+    "right": 1867.0144914923442
+  },
+  "David Arabuli": {
+    "left": 1215.9801202378658,
+    "right": 1500
+  },
+  "Mirtaleh Aslanov": {
+    "right": 1154.59075569785,
+    "left": 1500
+  },
+  "Lars Rorbakken": {
+    "right": 1226.0090214322056,
+    "left": 1500
+  },
+  "Frank Lampareli": {
+    "right": 1244.8940541982593,
+    "left": 1500
+  },
+  "Kydyrgali Ongarbaev": {
+    "right": 1682.0175173707664,
+    "left": 1500
+  },
+  "Sergei Kalinichenko": {
+    "right": 1310.072772501708,
+    "left": 1533.5811203524836
+  },
+  "Zaur Paizulaev": {
+    "right": 1141.0517360668014,
+    "left": 1500
+  },
+  "Leonidas Arkona": {
+    "right": 1383.2400474652172,
+    "left": 1500
+  },
+  "Chance Shaw": {
+    "right": 1292.6857911457464,
+    "left": 1500
+  },
+  "Denis Csyplenkov": {
+    "right": 1437.0221250953946,
+    "left": 1514.2085380982899
+  },
+  "Sandris Sedis": {
+    "right": 1220.1799164751037,
+    "left": 1500
+  },
+  "John Brzenk": {
+    "right": 1200.331996559242,
+    "left": 1500
+  },
+  "Ferit Osmanli": {
+    "right": 1128.850639671642,
+    "left": 1500
+  },
+  "Arif Ertem": {
+    "left": 1500,
+    "right": 1242.696768843392
+  },
+  "Oleg Zhokh": {
+    "left": 1204.0821686051574,
+    "right": 1500
+  },
+  "Irakli Zirakashvilli": {
+    "left": 1500,
+    "right": 1254.2383930284332
+  },
+  "Todd Hutchings": {
+    "left": 1500,
+    "right": 1484.667724955776
+  },
+  "Yoshinobu Kanai": {
+    "left": 1500,
+    "right": 1334.2410309304698
+  },
+  "Krasimir Kostadinov": {
+    "left": 1500,
+    "right": 1361.7869491392978
+  },
+  "Ibraim Sagov": {
+    "left": 1500,
+    "right": 1452.3390799494146
+  },
+  "Bacho Saginashvilli": {
+    "left": 1500,
+    "right": 1356.18011609587
+  },
+  "Terence Opperman": {
+    "left": 1500,
+    "right": 1360.2538498922293
+  },
+  "Marcio Barboza": {
+    "left": 1500,
+    "right": 1289.274451477216
+  },
+  "Matt Mask": {
+    "left": 1497.3153347190876,
+    "right": 1666.2984157438113
+  },
+  "Travis Bagent": {
+    "left": 1500,
+    "right": 1495.1771149929766
+  },
+  "Ron Bath": {
+    "left": 1500,
+    "right": 1484.9986719150763
+  }
+}
