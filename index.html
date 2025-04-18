@@ -8,46 +8,87 @@
       font-family: Arial, sans-serif;
       padding: 20px;
     }
-    h2 {
-      margin-top: 40px;
+
+    .tables-container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
     }
-    ol {
-      padding-left: 20px;
+
+    table {
+      border-collapse: collapse;
+      margin: 20px;
+      width: 300px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f0f0f0;
+    }
+
+    caption {
+      font-weight: bold;
+      margin-bottom: 10px;
+      font-size: 1.2em;
     }
   </style>
 </head>
 <body>
   <h1>Arm Wrestling Leaderboard</h1>
 
-  <h2>Left Arm Rankings</h2>
-  <ol id="left-list"></ol>
+  <div class="tables-container">
+    <table id="left-table">
+      <caption>Left Arm Rankings</caption>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Name</th>
+          <th>Rating</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
 
-  <h2>Right Arm Rankings</h2>
-  <ol id="right-list"></ol>
+    <table id="right-table">
+      <caption>Right Arm Rankings</caption>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Name</th>
+          <th>Rating</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
 
   <script>
     fetch('leaderboard.json')
       .then(response => response.json())
       .then(data => {
-        const leftList = document.getElementById('left-list');
-        const rightList = document.getElementById('right-list');
+        const leftTable = document.getElementById('left-table').querySelector('tbody');
+        const rightTable = document.getElementById('right-table').querySelector('tbody');
 
-        data.left.forEach(([name, rating]) => {
-          const li = document.createElement('li');
-          li.textContent = `${name} - ${rating.toFixed(2)}`;
-          leftList.appendChild(li);
+        data.left.forEach(([name, rating], index) => {
+          const row = leftTable.insertRow();
+          row.innerHTML = `<td>${index + 1}</td><td>${name}</td><td>${rating.toFixed(2)}</td>`;
         });
 
-        data.right.forEach(([name, rating]) => {
-          const li = document.createElement('li');
-          li.textContent = `${name} - ${rating.toFixed(2)}`;
-          rightList.appendChild(li);
+        data.right.forEach(([name, rating], index) => {
+          const row = rightTable.insertRow();
+          row.innerHTML = `<td>${index + 1}</td><td>${name}</td><td>${rating.toFixed(2)}</td>`;
         });
       })
       .catch(error => {
         console.error('Error loading leaderboard:', error);
-        document.body.innerHTML += "<p style='color:red;'>Failed to load leaderboard.json</p>";
       });
   </script>
 </body>
 </html>
+
