@@ -1309,6 +1309,66 @@
       "event": "PAL Armfight #46",
       "weight_class": "superheavyweight",
       "arm": "right"
+    },
+    {
+        "winner": "Vitaly Laletin",
+      "loser": "Michael Todd",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-05-10",
+      "event": "King of the Table 14",
+      "weight_class": "superheavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Todd Hutchings",
+      "loser": "Rustam Babayev",
+      "winner_rounds": 4,
+      "loser_rounds": 2,
+      "date": "2024-05-10",
+      "event": "King of the Table 14",
+      "weight_class": "middleweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Artur Makarov",
+      "loser": "Daniel Procopciuc",
+      "winner_rounds": 4,
+      "loser_rounds": 1,
+      "date": "2024-05-10",
+      "event": "King of the Table 14",
+      "weight_class": "lightweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Ibraim Sagov",
+      "loser": "Genadi Kvikvinia",
+      "winner_rounds": 4,
+      "loser_rounds": 0,
+      "date": "2024-05-10",
+      "event": "King of the Table 14",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Ivan Matyushenko",
+      "loser": "Sergei Kalinichenko",
+      "winner_rounds": 3,
+      "loser_rounds": 1,
+      "date": "2024-05-10",
+      "event": "King of the Table 14",
+      "weight_class": "heavyweight",
+      "arm": "right"
+    },
+    {
+        "winner": "Kamil Jablonski",
+      "loser": "Georgi Dzeranov",
+      "winner_rounds": 3,
+      "loser_rounds": 0,
+      "date": "2024-05-10",
+      "event": "King of the Table 14",
+      "weight_class": "superheavyweight",
+      "arm": "left"
     }
     
 
